@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.firstapp5.app-mergeDebugResources-40:/layout/fragment_first.xml",
+        "source": "com.example.firstapp5.app-main-43:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohit\\.gradle\\daemon\\7.5\\com.example.firstapp5.app-mergeDebugResources-40:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\rohit\\.gradle\\daemon\\7.5\\com.example.firstapp5.app-main-43:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohit\\.gradle\\daemon\\7.5\\com.example.firstapp5.app-mergeDebugResources-40:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\rohit\\.gradle\\daemon\\7.5\\com.example.firstapp5.app-main-43:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohit\\.gradle\\daemon\\7.5\\com.example.firstapp5.app-mergeDebugResources-40:\\layout\\content_main.xml",
+        "source": "C:\\Users\\rohit\\.gradle\\daemon\\7.5\\com.example.firstapp5.app-main-43:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohit\\.gradle\\daemon\\7.5\\com.example.firstapp5.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\rohit\\.gradle\\daemon\\7.5\\com.example.firstapp5.app-main-43:\\layout\\activity_main.xml"
+    }
+]
